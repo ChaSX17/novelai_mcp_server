@@ -1,0 +1,9 @@
+{
+  "command": "python",
+  "args": ["server.py"],
+  "cwd": "E:\\Desktop\\乱七八糟\\novelai_mcp_server",
+  "env": {
+    "NOVELAI_API_KEY": "替换为你的API密钥",
+    "NOVELAI_PROXY": "http://127.0.0.1:7897"
+  }
+}
